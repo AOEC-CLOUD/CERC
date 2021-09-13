@@ -6,7 +6,7 @@ repair/system  documentation and even connected emergency response.
 
 Team name: AOEC
 
-DevPost project name: Green Globe Responsiveness
+DevPost project name: Green Globe Codification for Connected Emergency Response
 
 Landing page for  the SAAI Factory Hackathon: www.venkataoec.wixsite.com/futuregenart
 
