@@ -8,7 +8,7 @@ Team name: AOEC
 
 DevPost project name: Green Globe Responsiveness
 
-Landing page for  the SAAI Factory Hackathon: wwww.venkataoec.wixsite.com/futuregenart
+Landing page for  the SAAI Factory Hackathon: www.venkataoec.wixsite.com/futuregenart
 
 Panel of interest in landing page:  Connected Emergency Response Centre 
 
